@@ -1,7 +1,6 @@
 # GitHub-image
-该项目为GitHub镜像网站，当前镜像站无法登入GitHub
-###### cloudflare workers&pages部署hello world
-###### 部署后点击右上角编辑代码替换下发代码
+### cloudflare workers&pages部署hello world
+### 部署后点击右上角编辑代码替换下发代码
 > 该项目为GitHub镜像网站，当前镜像站无法登入GitHub
 ```abap
 /**
